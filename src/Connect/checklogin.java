@@ -14,7 +14,6 @@ import java.sql.ResultSet;
  * @author HOME
  */
 public class checklogin {
-
     public static Connection conn = null;
     public static ResultSet rs = null;
     public static PreparedStatement pst = null;
